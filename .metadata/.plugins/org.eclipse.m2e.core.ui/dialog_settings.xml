@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\s\work_space_jsp\member_pro01\src\main\java\dao\MemberDaoImpl.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="All Catalogs"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="board_ex_paging"/>
+			<item value="portfolio"/>
+			<item value="board_ex_file_reply_ex1"/>
+			<item value="pro17_"/>
+			<item value="test02"/>
+			<item value="test01"/>
+			<item value="board_ex_file_mod"/>
+			<item value="board_ex_file_practice22"/>
+			<item value="board_ex_file_parctice11"/>
+			<item value="board_ex_file_practice"/>
+			<item value="board_ex_file"/>
+			<item value="pro16"/>
+			<item value="board_exam2"/>
+			<item value="board_exam1"/>
+			<item value="board_exam"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="board_ex_paging"/>
+			<item value="portfolio"/>
+			<item value="board_ex_file_reply_ex1"/>
+			<item value="pro17_"/>
+			<item value="test02"/>
+			<item value="test01"/>
+			<item value="board_ex_file_mod"/>
+			<item value="board_ex_file_practice22"/>
+			<item value="board_ex_file_parctice11"/>
+			<item value="board_ex_file_practice"/>
+			<item value="board_ex_file"/>
+			<item value="pro16"/>
+			<item value="board_exam2"/>
+			<item value="board_exam1"/>
+			<item value="board_exam"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

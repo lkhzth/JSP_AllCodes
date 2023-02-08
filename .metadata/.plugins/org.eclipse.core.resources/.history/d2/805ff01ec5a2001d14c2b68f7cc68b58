@@ -1,0 +1,9 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<div class="jumbotron bg-warning">
+	<a href="${contextPath}/main"><img src="${contextPath}/resources/image/logo.png"></a>
+</div>
+
+</body>
+</html>

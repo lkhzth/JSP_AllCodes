@@ -1,0 +1,12 @@
+127.0.0.1 - - [04/Jan/2023:16:40:12 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:12 +0900] "GET /portfolio/ HTTP/1.1" 404 821
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:12 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:19 +0900] "GET /portfolio/board/ HTTP/1.1" 200 3823
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:19 +0900] "GET /portfolio/resources/image/logo.png HTTP/1.1" 200 16614
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:20 +0900] "GET /portfolio/main HTTP/1.1" 200 2646
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:20 +0900] "GET /portfolio/resources/image/02.png HTTP/1.1" 200 6015334
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:23 +0900] "GET /portfolio/board HTTP/1.1" 200 3823
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:24 +0900] "GET /portfolio/board/detail?bno=1 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:24 +0900] "GET /portfolio/member/loginForm HTTP/1.1" 200 3126
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:26 +0900] "GET /portfolio/reserve HTTP/1.1" 200 4744
+0:0:0:0:0:0:0:1 - - [04/Jan/2023:16:40:37 +0900] "GET /portfolio/reserve/phChecked?mno=1 HTTP/1.1" 200 3108
